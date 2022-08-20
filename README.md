@@ -4,4 +4,6 @@ Sistema en desarrollo de hospital, con las opciones de citas, doctores, consulta
 Realizado en C#. 
 Microsoft Visual Studio. 
 
-@utor: Arianny Rodriguez - 2020/10374
+@utores: Arianny Rodriguez - 2020/10374 &
+Alexander ventura Fernández - 2021-0790
+
